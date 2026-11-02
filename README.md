@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently in Sixth Form, studying A Level Maths, Physics, Chemistry, Computer Science
+- 🌱 I’m currently a Second Year Computer Engineering student at University of Birmingham
 
 
 <!---
